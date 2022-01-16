@@ -1,2 +1,2 @@
-![](GraydonBanner4.png)
+![](GraydonBanner6.png)
 ### About Me
