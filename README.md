@@ -19,7 +19,7 @@ and am now pursuing my Masters in Software Engineering 💻
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white" />
 </p>
 
-### Contact Me ✉️
+### Contact Me ☎️️
 <p> 
     <a href="https://www.linkedin.com/in/graydon-hall-7ba8a2103/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=&logo=linkedin&logoColor=white" /></a> 
 </p>
