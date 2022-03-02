@@ -1,4 +1,4 @@
-![](Banners/GraydonBanner2.png)
+![](Banners/GraydonBanner1.png)
 ### Welcome to my page! 👋
 My name is Graydon Hall, and I'm from Calgary, AB, Canada 🍁.<br>
 I have my BSc. in Mechanical Engineering ⚙️
