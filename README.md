@@ -2,7 +2,7 @@
 ### Welcome to my page! 👋
 My name is Graydon Hall, and I'm from Calgary, AB, Canada 🍁.<br>
 I have my BSc. in Mechanical Engineering ⚙️
-and am now pursuing my Masters in Software Engineering 💻
+along with my Masters in Software Engineering 💻
 
 ### Technologies and Skills 👨‍💻
 <p>
