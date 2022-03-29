@@ -8,6 +8,7 @@ along with my Masters in Software Engineering 💻
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
     <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?logo=react&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?logo=react&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-1867C0?logo=vue.js&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
