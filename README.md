@@ -3,8 +3,8 @@
 My name is Graydon Hall, and I'm from Calgary, AB, Canada 🍁.<br>
 I have 3 years of experience working as a full-stack software developer, most recently with PHP (Laravel), and Vue.js.<br>
 
-I have my BSc. in Mechanical Engineering ⚙️
-along with my Masters in Software Engineering 💻<br>
+I have a BSc. in Mechanical Engineering ⚙️
+along with a Masters in Software Engineering 💻<br>
 
 
 ### Technologies and Skills 👨‍💻
