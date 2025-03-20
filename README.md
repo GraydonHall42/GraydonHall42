@@ -9,7 +9,7 @@ along with my Masters in Software Engineering 💻<br>
 
 ### Technologies and Skills 👨‍💻
 <p>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" />
     <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
