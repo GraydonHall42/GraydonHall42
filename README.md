@@ -1,8 +1,12 @@
 ![](Banners/GraydonBanner1.png)
 ### Welcome to my page! 👋
 My name is Graydon Hall, and I'm from Calgary, AB, Canada 🍁.<br>
+I have 3 years of experience working as a full-stack software developer, primarily with: 
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-1867C0?logo=vue.js&logoColor=white" /> 
+
 I have my BSc. in Mechanical Engineering ⚙️
-along with my Masters in Software Engineering 💻
+along with my Masters in Software Engineering 💻<br>
+
 
 ### Technologies and Skills 👨‍💻
 <p>
