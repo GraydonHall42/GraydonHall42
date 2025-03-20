@@ -1,8 +1,7 @@
 ![](Banners/GraydonBanner1.png)
 ### Welcome to my page! 👋
 My name is Graydon Hall, and I'm from Calgary, AB, Canada 🍁.<br>
-I have 3 years of experience working as a full-stack software developer, primarily with: 
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-1867C0?logo=vue.js&logoColor=white" /> 
+I have 3 years of experience working as a full-stack software developer, most recently with PHP (Laravel), and Vue.js.<br>
 
 I have my BSc. in Mechanical Engineering ⚙️
 along with my Masters in Software Engineering 💻<br>
@@ -10,11 +9,13 @@ along with my Masters in Software Engineering 💻<br>
 
 ### Technologies and Skills 👨‍💻
 <p>
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" />
+    <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
     <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?logo=react&logoColor=white" />
     <img alt="Expo" src="https://img.shields.io/badge/-Expo-232F3E?logo=expo&logoColor=white" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-1867C0?logo=vue.js&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
     <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?logo=apache spark&logoColor=white" />
