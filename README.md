@@ -18,7 +18,6 @@ along with a Masters in Software Engineering 💻<br>
     <img alt="Expo" src="https://img.shields.io/badge/-Expo-232F3E?logo=expo&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-    <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?logo=apache spark&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=springboot&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" />
