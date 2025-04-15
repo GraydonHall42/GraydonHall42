@@ -22,7 +22,6 @@ along with a Masters in Software Engineering 💻<br>
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=springboot&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-A8B9CC?logo=cplusplus&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white" />
 </p>
 
 ### Contact Me ☎️️
